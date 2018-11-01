@@ -1,0 +1,13 @@
+{
+    "name": "abackdev/user",
+    "description": "Displays all the users from the db records",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Abackdev\\User\\": "src/"
+        }
+    }
+}
