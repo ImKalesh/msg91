@@ -1,6 +1,6 @@
 {
     "name": "abackdev/user",
-    "description": "Msg91 message can send using this package in easy way.",
+    "description": "Msg91 message can send using this package in fast and easy way.",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -9,6 +9,7 @@
             "email": "kalesh569@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {}
 }
