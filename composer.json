@@ -1,13 +1,14 @@
 {
     "name": "abackdev/user",
-    "description": "Displays all the users from the db records",
+    "description": "Msg91 message can send using this package in easy way.",
     "type": "library",
     "license": "MIT",
-    "minimum-stability": "dev",
-    "require": {},
-    "autoload": {
-        "psr-4": {
-            "Abackdev\\User\\": "src/"
+    "authors": [
+        {
+            "name": "thisiskalesh",
+            "email": "kalesh569@gmail.com"
         }
-    }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
 }
